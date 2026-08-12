@@ -64,10 +64,6 @@ The dashboard analyzes:
 
 The dashboard provides an interactive view of Blinkit's sales performance and outlet-level trends.
 
-**Dashboard Preview**
-
-Add your dashboard screenshot here.
-
 ## Key Insights
 
 The dashboard helps identify:
